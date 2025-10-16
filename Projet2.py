@@ -1,11 +1,4 @@
-#ARBITRAGE STATISTIQUE : 
-# * Sélectionner deux actions corrélées (ex : KO vs PEP)
-# * Tester la co-intégration avec le test de Engle-Granger
-# * Créer un z-score pour trader les écarts
-# * Backtester et analyser la performance
-#statsmodels numpy pandas matplotlib
-
-# 🧠 Projet 2 — Arbitrage statistique : Pairs Trading sur KO et PEP
+#Arbitrage statistique : Pairs Trading sur KO et PEP
 
 import yfinance as yf
 import numpy as np
