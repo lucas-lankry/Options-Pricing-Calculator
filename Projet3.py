@@ -1,15 +1,4 @@
-# 💡 Projet 3 — Analyse de séries temporelles (forecasting)
-# Objectif : Prédire les prix avec des modèles classiques
-
-# 📋 Ce que tu vas faire :
-# * Travailler sur le SP500 ou EUR/USD
-# * Appliquer un modèle ARIMA ou SARIMA pour prédire les prix ou la volatilité
-# * Comparer avec un modèle naïf
-# * Visualiser les erreurs et la performance
-
-# 🛠️ Outils :
-# * statsmodels.tsa, pmdarima, seaborn, sklearn
-
+# Analyse de séries temporelles (forecasting)
 
 import vectorbt as vbt
 from statsmodels.tsa.stattools import adfuller 
