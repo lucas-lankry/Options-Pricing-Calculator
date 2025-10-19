@@ -19,6 +19,8 @@ This application implements the classical Black-Scholes-Merton model with advanc
 
 <img width="1901" height="944" alt="image" src="https://github.com/user-attachments/assets/aec01670-2cbf-4f54-874e-4f56cda08b4e" />
 
+---
+
 **Core Capabilities:**
 - European call and put option valuation using analytical solutions
   
