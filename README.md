@@ -112,7 +112,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Launch the application
-streamlit run BlackScholes3test.py
+streamlit run BlackScholes.py
 ```
 
 The application will launch in your default browser at `http://localhost:8501`
@@ -283,7 +283,7 @@ $$\nu = S_0N'(d_1)\sqrt{T}$$
 ```
 Options-Pricing-Calculator/
 │
-├── BlackScholes3test.py      # Main application file
+├── BlackScholes.py      # Main application file
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
 └── LICENSE                    # MIT License
