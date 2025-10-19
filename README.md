@@ -21,16 +21,25 @@ This application implements the classical Black-Scholes-Merton model with advanc
 
 **Core Capabilities:**
 - European call and put option valuation using analytical solutions
+  
   <img width="1824" height="890" alt="image" src="https://github.com/user-attachments/assets/08e33312-468e-48f1-915d-0a46bddfe159" />
+  
 - Real-time Greeks calculation (Delta, Gamma, Vega, Theta, Rho)
+  
 <img width="1377" height="242" alt="image" src="https://github.com/user-attachments/assets/91dc5160-c1cf-48e5-b54c-9396ea3b635e" />
 <img width="1375" height="659" alt="image" src="https://github.com/user-attachments/assets/ad11ef64-d0d1-4ec9-a991-143a7ccdf62f" />
+
 - Interactive 3D surface plots for price evolution analysis
+  
   <img width="1409" height="778" alt="image" src="https://github.com/user-attachments/assets/3dffe2f0-230c-499e-89de-f35bd175e093" />
+  
 - Live market data integration via Yahoo Finance API
 - Profit/Loss heatmap generation across volatility and spot price ranges
+  
   <img width="1387" height="700" alt="image" src="https://github.com/user-attachments/assets/ac8a9841-bf07-420d-be46-d4427e463158" />
+
 - Comprehensive sensitivity analysis with parameter sliders
+  
 <img width="360" height="673" alt="image" src="https://github.com/user-attachments/assets/b1187121-cf8d-4b62-b1f8-760341fe6f82" />
 
 ---
