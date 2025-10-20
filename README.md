@@ -49,7 +49,8 @@ This application implements the classical Black-Scholes-Merton model with advanc
 
 - Comprehensive sensitivity analysis with parameter sliders
   
-<img width="360" height="673" alt="image" src="https://github.com/user-attachments/assets/b1187121-cf8d-4b62-b1f8-760341fe6f82" />
+<img width="360" height="673" alt="image" src="https://github.com/user-attachments/assets/b1187121-cf8d-4b62-b1f8-760341fe6f82" /> <img width="525" height="622" alt="image" src="https://github.com/user-attachments/assets/e4f1cd38-2d40-4e16-ad91-f246d2251a14" />
+
 
 ---
 
