@@ -293,7 +293,7 @@ Options-Pricing-Calculator/
 ├── BlackScholes.py      # Main application file
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
-└── LICENSE                    # MIT License
+
 ```
 
 ---
