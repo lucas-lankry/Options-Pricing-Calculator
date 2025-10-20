@@ -9,7 +9,7 @@
 
 **Web application for European options pricing, risk analysis, and portfolio Greeks calculation using the Black-Scholes-Merton framework**
 
-Built with Python and Streamlit, this application provides comprehensive quantitative analysis tools.
+Built with Python and Streamlit !
 
 ## 🚀 Live Demo
 Try the application: [https://blackscholespy-ztryxbewvkzb8glghaekwt.streamlit.app/]
